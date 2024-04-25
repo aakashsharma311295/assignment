@@ -1,0 +1,238 @@
+Customer_ID,first,last,item,total_transactions,total_amount_spent
+139,Ryan,Martin,Keyboard,1,400
+250,Stephen,Jones,Mouse,1,300
+239,Janet,Holmes,Monitor,1,12000
+153,Janet,Valdez,Keyboard,1,400
+153,Janet,Valdez,Mousepad,2,450
+164,Sandra,Mcmahon,Harddisk,1,5000
+124,Rachel,Larson,Webcam,1,350
+98,Steve,Braun,Mousepad,1,200
+119,Robin,Snyder,"DDR RAM",1,1500
+159,Brooke,Durham,Headset,1,900
+167,Matthew,Stokes,Keyboard,1,400
+157,Sharon,Warner,Mouse,1,300
+49,Erin,Taylor,Monitor,1,12000
+234,Diane,Tanner,Keyboard,1,400
+202,Mary,Williams,Mousepad,1,250
+181,Adrian,West,Harddisk,1,5000
+15,Jason,Brown,Webcam,1,350
+177,Linda,Craig,Mousepad,1,200
+5,William,Jackson,"DDR RAM",1,1500
+225,Michael,Phelps,Headset,1,900
+171,L@rry,Cole,Keyboard,1,400
+67,Guy,Bennett,Mouse,1,300
+68,Regina,Wong,Monitor,1,12000
+86,Emily,Thomas,Keyboard,1,400
+8,Jason,Montgomery,Mousepad,2,450
+56,Jose,Poole,Harddisk,1,5000
+60,Jeremy,Rodriguez,Webcam,2,700
+188,Michele,Rogers,Mousepad,1,200
+33,Erica,Owens,"DDR RAM",1,1500
+157,Sharon,Warner,Headset,1,900
+87,Mark,Rogers,Keyboard,1,400
+174,Emily,Jones,Mouse,1,300
+158,Zachary,Williams,Monitor,1,12000
+134,James,Keith,Keyboard,1,400
+209,Russell,Berry,Mousepad,1,250
+52,Haley,Martinez,Harddisk,1,5000
+92,Paul,Brown,Webcam,1,350
+105,Monique,Wright,Mousepad,1,200
+99,Ryan,Rojas,"DDR RAM",1,1500
+249,Patricia,Garcia,Headset,1,900
+200,Rebecca,Robinson,Keyboard,1,400
+180,Brenda,Lewis,Mouse,1,300
+61,Jade,Wall,Monitor,1,12000
+126,Aimee,Jacobs,Keyboard,1,400
+172,Jeffrey,Diaz,Mousepad,2,500
+81,Allison,Sweeney,Harddisk,1,5000
+78,Thomas,Wood,Webcam,2,700
+222,Jeremy,Andrews,Mousepad,1,200
+194,Nancy,Miller,"DDR RAM",1,1500
+150,Sherry,Parsons,Headset,1,900
+146,Terry,Bailey,Keyboard,2,800
+192,David,Arnold,Mouse,1,300
+193,Yesenia,White,Monitor,1,12000
+24,Arthur,Hayes,Keyboard,1,400
+125,Stephen,Sharp,Mousepad,1,250
+228,Andrea,Velasquez,Harddisk,1,5000
+101,Brian,Olson,Webcam,2,700
+64,Sandra,Golden,Mousepad,1,200
+164,Sandra,Mcmahon,"DDR RAM",1,1500
+244,Mark,Rivers,Headset,1,900
+118,R0bert,Shepherd,Keyboard,1,400
+96,Eric,Harvey,Mouse,1,300
+221,Sarah,Gilbert,Monitor,1,12000
+190,Grace,Hartman,Keyboard,1,400
+198,R0bert,Bryan,Mousepad,1,250
+30,Michael,Mann,Harddisk,1,5000
+201,Bethany,Anderson,Webcam,1,350
+144,Brett,Burns,Mousepad,1,200
+136,Natalie,Page,"DDR RAM",1,1500
+50,Charles,Garcia,Headset,1,900
+70,Juan,Cruz,Keyboard,3,1200
+89,David,Yoder,Mouse,1,300
+151,Javier,Jones,Monitor,1,12000
+112,Maureen,Bryant,Keyboard,1,400
+70,Juan,Cruz,Mousepad,1,250
+38,Michael,Williams,Harddisk,1,5000
+87,Mark,Rogers,Webcam,1,350
+211,Al1cia,Thompson,Mousepad,1,200
+249,Patricia,Garcia,"DDR RAM",1,1500
+238,Kyle,Ruiz,Headset,1,900
+247,John,Miller,Keyboard,1,400
+156,Jessica,Marshall,Mouse,1,300
+129,Amber,Banks,Monitor,1,12000
+39,Ruth,Smith,Keyboard,1,400
+193,Yesenia,White,Mousepad,2,450
+124,Rachel,Larson,Harddisk,1,5000
+108,Jeremy,Lee,Webcam,1,350
+91,Stephanie,Hicks,Mousepad,1,200
+193,Yesenia,White,"DDR RAM",1,1500
+161,Gabrielle,Smith,Headset,1,900
+99,Ryan,Rojas,Keyboard,1,400
+145,Michael,Case,Mouse,1,300
+229,Philip,Newton,Monitor,1,12000
+80,Kevin,Watkins,Keyboard,1,400
+129,Amber,Banks,Harddisk,1,5000
+163,Heather,Ali,Webcam,1,350
+195,Christopher,Doyle,Mousepad,1,200
+86,Emily,Thomas,"DDR RAM",1,1500
+231,Eric,Levine,Headset,1,900
+226,Christopher,Robinson,Keyboard,1,400
+68,Regina,Wong,Mouse,1,300
+242,Mark,R0berts,Monitor,1,12000
+53,Adam,Holmes,Keyboard,1,400
+107,Breanna,Santos,Mousepad,1,250
+119,Robin,Snyder,Harddisk,1,5000
+17,Kimberly,Mora,Webcam,1,350
+152,Jill,Kane,Mousepad,1,200
+8,Jason,Montgomery,"DDR RAM",1,1500
+32,Tiffany,Carter,Headset,1,900
+243,Alejandro,Bailey,Keyboard,1,400
+143,Stacey,Welch,Mouse,1,300
+167,Matthew,Stokes,Monitor,1,12000
+69,Desiree,Webster,Keyboard,1,400
+186,Xavier,Miles,Mousepad,1,250
+75,Allen,Wright,Harddisk,1,5000
+8,Jason,Montgomery,Webcam,1,350
+4,Eric,Carter,Mousepad,1,200
+184,Anthony,Nicholson,"DDR RAM",1,1500
+96,Eric,Harvey,Headset,1,900
+35,Brian,Palmer,Keyboard,1,400
+73,Laura,House,Mouse,1,300
+131,Miranda,Williams,Monitor,1,12000
+151,Javier,Jones,Keyboard,1,400
+249,Patricia,Garcia,Mousepad,2,450
+47,Carolyn,Green,Harddisk,1,5000
+191,Joseph,Miller,Mousepad,1,200
+107,Breanna,Santos,"DDR RAM",1,1500
+13,Omar,Martin,Headset,1,900
+183,April,Beck,Mouse,1,300
+98,Steve,Braun,Monitor,1,12000
+23,Margaret,Hardy,Keyboard,2,800
+95,Alyssa,Walker,Mousepad,1,250
+123,Philip,Robinson,Harddisk,1,5000
+103,Stephanie,Faulkner,Webcam,1,350
+63,Sarah,Greer,Mousepad,1,200
+96,Eric,Harvey,"DDR RAM",1,1500
+138,Brian,Bowman,Headset,1,900
+59,Amanda,Cohen,Keyboard,1,400
+84,John,Bennett,Mouse,1,300
+143,Stacey,Welch,Monitor,1,12000
+10,Darrell,Dillon,Keyboard,1,400
+53,Adam,Holmes,Mousepad,1,250
+247,John,Miller,Harddisk,1,5000
+232,Michael,Lopez,Webcam,1,350
+229,Philip,Newton,Mousepad,1,200
+20,Derek,Peterson,"DDR RAM",1,1500
+89,David,Yoder,Headset,1,900
+208,Brittany,Golden,Keyboard,1,400
+47,Carolyn,Green,Mouse,1,300
+23,Margaret,Hardy,Monitor,1,12000
+114,Jeffrey,Sullivan,Keyboard,1,400
+247,John,Miller,Mousepad,1,250
+71,Michelle,Edwards,Harddisk,1,5000
+172,Jeffrey,Diaz,"DDR RAM",1,1500
+246,Justin,Stewart,Headset,1,900
+89,David,Yoder,Keyboard,1,400
+134,James,Keith,Mouse,1,300
+166,Morgan,Cooper,Monitor,1,12000
+85,Michele,Maxwell,Keyboard,1,400
+221,Sarah,Gilbert,Mousepad,1,250
+12,Jodi,Gonzalez,Harddisk,1,5000
+143,Stacey,Welch,Webcam,1,350
+236,Al1cia,Jensen,"DDR RAM",1,1500
+214,N!cole,Mcintyre,Headset,1,900
+55,Christy,Rodriguez,Keyboard,1,400
+122,Charles,Nunez,Mouse,1,300
+13,Omar,Martin,Monitor,1,12000
+181,Adrian,West,Keyboard,1,400
+203,Carlos,Wallace,Mousepad,1,250
+159,Brooke,Durham,Harddisk,1,5000
+63,Sarah,Greer,Webcam,1,350
+94,Krystal,Carroll,Mousepad,1,200
+67,Guy,Bennett,"DDR RAM",1,1500
+86,Emily,Thomas,Headset,1,900
+97,Debbie,Rogers,Mouse,1,300
+55,Christy,Rodriguez,Monitor,1,12000
+66,Hannah,Wu,Mousepad,1,250
+166,Morgan,Cooper,Harddisk,1,5000
+117,Steven,Black,Webcam,1,350
+195,Christopher,Doyle,"DDR RAM",1,1500
+197,Katherine,Ferguson,Headset,1,900
+218,Thomas,Mclaughlin,Mouse,1,300
+92,Paul,Brown,Monitor,1,12000
+235,Melissa,Gaines,Keyboard,1,400
+24,Arthur,Hayes,Mousepad,1,250
+196,Taylor,Reed,Harddisk,1,5000
+166,Morgan,Cooper,Webcam,1,350
+57,Lacey,Mercado,Mousepad,1,200
+229,Philip,Newton,"DDR RAM",1,1500
+178,Christine,Smith,Headset,1,900
+109,R0bert,Moore,Keyboard,1,400
+98,Steve,Braun,Mouse,1,300
+207,Chelsea,Moyer,Monitor,1,12000
+28,Jonathan,Manning,Keyboard,1,400
+208,Brittany,Golden,Mousepad,1,250
+57,Lacey,Mercado,Harddisk,1,5000
+235,Melissa,Gaines,Webcam,1,350
+29,Angela,Bryant,Mousepad,1,200
+40,Jonathan,Middleton,"DDR RAM",1,1500
+106,Veronica,Stein,Headset,1,900
+239,Janet,Holmes,Keyboard,1,400
+103,Stephanie,Faulkner,Mouse,1,300
+118,R0bert,Shepherd,Monitor,1,12000
+92,Paul,Brown,Keyboard,1,400
+176,Tiffany,Bowers,Mousepad,1,250
+85,Michele,Maxwell,Harddisk,1,5000
+151,Javier,Jones,Mousepad,1,200
+97,Debbie,Rogers,"DDR RAM",1,1500
+223,Megan,Morris,Headset,2,1800
+198,R0bert,Bryan,Keyboard,1,400
+238,Kyle,Ruiz,Mouse,1,300
+96,Eric,Harvey,Monitor,1,12000
+221,Sarah,Gilbert,Keyboard,1,400
+113,Derrick,R0berts,Mousepad,1,250
+65,David,Fritz,Harddisk,1,5000
+134,James,Keith,Webcam,1,350
+57,Lacey,Mercado,"DDR RAM",1,1500
+111,Audrey,Richardson,Headset,1,900
+162,N!cole,Bennett,Keyboard,1,400
+190,Grace,Hartman,Mouse,1,300
+206,Courtney,Lopez,Monitor,1,12000
+13,Omar,Martin,Keyboard,1,400
+37,Connor,Adams,Mousepad,1,250
+102,Jessica,Welch,Harddisk,1,5000
+157,Sharon,Warner,Webcam,1,350
+200,Rebecca,Robinson,Mousepad,1,200
+223,Megan,Morris,"DDR RAM",1,1500
+101,Brian,Olson,Headset,1,900
+224,Zachary,Davis,Keyboard,1,400
+63,Sarah,Greer,Mouse,1,300
+123,Philip,Robinson,Monitor,1,12000
+215,Vincent,Kline,Keyboard,1,400
+50,Charles,Garcia,Mousepad,1,250
+186,Xavier,Miles,Harddisk,1,5000
+135,Shawn,Johnson,Webcam,1,350
+110,Tiffany,Pearson,Mousepad,1,200
+176,Tiffany,Bowers,"DDR RAM",1,1500
